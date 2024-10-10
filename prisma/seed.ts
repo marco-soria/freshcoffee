@@ -27,4 +27,4 @@ main()
     process.exit(1);
   });
 
-// Run the seed script
+// Run the seed script v2
