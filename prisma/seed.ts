@@ -26,5 +26,3 @@ main()
     await prisma.$disconnect();
     process.exit(1);
   });
-
-// Run the seed script v3
